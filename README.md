@@ -8,9 +8,9 @@ sk-music is a web application crafted for users to discover music through the Sp
 
 To run this project locally, follow these steps:
 
-
-1. Install dependencies using `npm install`
-2. Start the development server using `npm start`
+1. Clone this repository: git clone https://github.com/Shamanth-k/music_app
+2. Install dependencies using `npm install`
+3. Start the development server using `npm start`
 
 ## Usage
 
